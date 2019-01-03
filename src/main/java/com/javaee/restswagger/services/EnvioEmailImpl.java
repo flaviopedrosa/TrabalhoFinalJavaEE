@@ -7,8 +7,8 @@ import com.javaee.restswagger.domain.Acao;
 
 public class EnvioEmailImpl implements EnvioEmail{
 
-	final String remetente = "flaviopedrosa@gmail.com";
-	final String senha = "Logomarc@170185#";
+	final String remetente = "";
+	final String senha = "";
 	final String tituloAviso ="";
 	final String tituloCompraSucesso = "";
 	final String tituloCompraCancelada = "";
